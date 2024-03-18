@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\TrafficFinesSystem\TrafficFinesSystem\bin\Debug\net8.0\TrafficFinesSystem.exe
+C:\Users\User\source\repos\TrafficFinesSystem\TrafficFinesSystem\bin\Debug\net8.0\TrafficFinesSystem.deps.json
+C:\Users\User\source\repos\TrafficFinesSystem\TrafficFinesSystem\bin\Debug\net8.0\TrafficFinesSystem.runtimeconfig.json
+C:\Users\User\source\repos\TrafficFinesSystem\TrafficFinesSystem\bin\Debug\net8.0\TrafficFinesSystem.dll
+C:\Users\User\source\repos\TrafficFinesSystem\TrafficFinesSystem\bin\Debug\net8.0\TrafficFinesSystem.pdb
+C:\Users\User\source\repos\TrafficFinesSystem\TrafficFinesSystem\obj\Debug\net8.0\TrafficFinesSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\TrafficFinesSystem\TrafficFinesSystem\obj\Debug\net8.0\TrafficFinesSystem.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TrafficFinesSystem\TrafficFinesSystem\obj\Debug\net8.0\TrafficFinesSystem.AssemblyInfo.cs
+C:\Users\User\source\repos\TrafficFinesSystem\TrafficFinesSystem\obj\Debug\net8.0\TrafficFinesSystem.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TrafficFinesSystem\TrafficFinesSystem\obj\Debug\net8.0\TrafficFinesSystem.sourcelink.json
+C:\Users\User\source\repos\TrafficFinesSystem\TrafficFinesSystem\obj\Debug\net8.0\TrafficFinesSystem.dll
+C:\Users\User\source\repos\TrafficFinesSystem\TrafficFinesSystem\obj\Debug\net8.0\refint\TrafficFinesSystem.dll
+C:\Users\User\source\repos\TrafficFinesSystem\TrafficFinesSystem\obj\Debug\net8.0\TrafficFinesSystem.pdb
+C:\Users\User\source\repos\TrafficFinesSystem\TrafficFinesSystem\obj\Debug\net8.0\TrafficFinesSystem.genruntimeconfig.cache
+C:\Users\User\source\repos\TrafficFinesSystem\TrafficFinesSystem\obj\Debug\net8.0\ref\TrafficFinesSystem.dll
